@@ -12,4 +12,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2016-06-13 12:23:29.836 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.265768</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_122329.836/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

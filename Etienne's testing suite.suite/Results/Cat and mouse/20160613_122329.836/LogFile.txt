@@ -1,0 +1,4 @@
+﻿2016-06-13 12:23:29.837 -0600	START		Running Cat and mouse.script
+2016-06-13 12:23:29.908 -0600	Log		06/13/16	3	on_cat_and_mouse	Cat and mouse.script
+2016-06-13 12:23:30.103 -0600	EndTestCase		(Duration:"0.262565", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 12:23:29 -0600", Successes:"1", TestCase:"Cat and mouse.script", Warnings:"0")
+2016-06-13 12:23:30.109 -0600	SUCCESS		Execution Time 0:00:00 Cat and mouse.script
