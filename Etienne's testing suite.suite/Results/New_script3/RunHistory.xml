@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="New_script3">
+ <run>
+  <RunDate>2016-06-06 16:34:48.913 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.395020</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_163448.913/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: Windows10</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 16:35:48.911 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160606_163548.911/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 16:36:41.014 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.621613</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_163641.014/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

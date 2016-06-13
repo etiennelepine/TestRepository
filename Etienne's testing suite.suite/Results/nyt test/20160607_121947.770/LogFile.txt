@@ -1,0 +1,8 @@
+﻿2016-06-07 12:19:47.772 -0600	START		Running nyt test.script
+2016-06-07 12:20:18.551 -0600	doubleclick	chrome	at (41, 137)	8	on_nyt_test	nyt test.script
+2016-06-07 12:20:20.950 -0600	click	nyttile	at (231, 557)	9	on_nyt_test	nyt test.script
+2016-06-07 12:20:23.388 -0600	click	health	at (491, 265)	10	on_nyt_test	nyt test.script
+2016-06-07 12:20:24.090 -0600	scrollwheelup		moved 0	11	on_nyt_test	nyt test.script
+2016-06-07 12:20:41.370 -0600	Exception	DirecttoConsumerLabTestsNo	No Image Found On Screen: "DirecttoConsumerLabTestsNo"	12	on_nyt_test	nyt test.script
+2016-06-07 12:20:41.697 -0600	EndTestCase		(Duration:"53.924278", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 12:19:47 -0600", Successes:"0", TestCase:"nyt test.script", Warnings:"0")
+2016-06-07 12:20:41.749 -0600	FAILURE	Screen_Error.png	Image Not Found moveto Error - No Image Found On Screen: "DirecttoConsumerLabTestsNo" -- Execution Time 0:00:53 nyt test.script

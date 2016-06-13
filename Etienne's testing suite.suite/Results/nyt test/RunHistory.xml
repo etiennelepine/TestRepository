@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="nyt test">
+ <run>
+  <RunDate>2016-06-07 12:18:47.301 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160607_121847.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 12:19:11.038 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>24.752786</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_121911.038/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 12:19:47.770 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.926617</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_121947.770/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: &quot;DirecttoConsumerLabTestsNo&quot;</ErrorMessage>
+ </run>
+</runHistory>

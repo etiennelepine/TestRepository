@@ -1,0 +1,4 @@
+﻿2016-06-07 12:19:11.040 -0600	START		Running nyt test.script
+2016-06-07 12:19:35.457 -0600	Exception	chrome	No Image Found On Screen: "chrome"	8	on_nyt_test	nyt test.script
+2016-06-07 12:19:35.792 -0600	EndTestCase		(Duration:"24.750612", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 12:19:11 -0600", Successes:"0", TestCase:"nyt test.script", Warnings:"0")
+2016-06-07 12:19:35.857 -0600	FAILURE	Screen_Error.png	Image Not Found doubleclick Error - No Image Found On Screen: "chrome" -- Execution Time 0:00:24 nyt test.script

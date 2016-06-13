@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled3">
+ <run>
+  <RunDate>2016-06-07 12:25:39.388 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160607_122539.388/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 12:27:54.501 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>24.294995</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_122754.501/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 12:30:58.072 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>31.197450</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_123058.072/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: &quot;ForHisLatestTrickJohnOliver&quot;</ErrorMessage>
+ </run>
+</runHistory>

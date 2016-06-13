@@ -1,0 +1,4 @@
+﻿2016-06-06 16:36:41.015 -0600	START		Running New_script3.script
+2016-06-06 16:36:41.298 -0600	tap	Downloads	at (372, 600)	1	on_new_script3	New_script3.script
+2016-06-06 16:36:41.637 -0600	EndTestCase		(Duration:"0.620222", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 16:36:41 -0600", Successes:"1", TestCase:"New_script3.script", Warnings:"0")
+2016-06-06 16:36:41.642 -0600	SUCCESS		Execution Time 0:00:00 New_script3.script

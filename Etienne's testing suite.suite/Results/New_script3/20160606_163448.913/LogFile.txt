@@ -1,0 +1,4 @@
+﻿2016-06-06 16:34:48.914 -0600	START		Running New_script3.script
+2016-06-06 16:34:48.979 -0600	Exception	Windows10	Could Not Open Image: Windows10	1	on_new_script3	New_script3.script
+2016-06-06 16:34:49.309 -0600	EndTestCase		(Duration:"0.3932", Errors:"1", Exceptions:"1", StartTime:"2016-06-06 16:34:48 -0600", Successes:"0", TestCase:"New_script3.script", Warnings:"0")
+2016-06-06 16:34:49.468 -0600	FAILURE	Screen_Error.png	File Not Found doubleclick Error - Could Not Open Image: Windows10 -- Execution Time 0:00:00 New_script3.script

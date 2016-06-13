@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-07 12:18:47.301 -0600,"Running",0:00:00,0,0,0,"20160607_121847.301/LogFile.txt","","",0
+2016-06-07 12:19:11.038 -0600,"Failure",0:00:24,1,0,1,"20160607_121911.038/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome""",0
+2016-06-07 12:19:47.770 -0600,"Failure",0:00:53,1,0,1,"20160607_121947.770/LogFile.txt","","Image Not Found -- moveto Error - No Image Found On Screen: ""DirecttoConsumerLabTestsNo""",0

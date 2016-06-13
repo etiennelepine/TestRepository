@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Cat and mouse">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-06 16:32:31 -0600</FirstRun>
+  <LastRun>2016-06-06 16:32:31 -0600</LastRun>
+  <TotalTimeOnSuccess>0.377213</TotalTimeOnSuccess>
+ </script>
+ <script name="ResourcePath">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-06-07 16:04:03 -0600</FirstRun>
+  <LastRun>2016-06-13 10:22:58 -0600</LastRun>
+  <TotalTimeOnSuccess>0.460584</TotalTimeOnSuccess>
+ </script>
+ <script name="nyt test">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-06-07 12:19:11 -0600</FirstRun>
+  <LastRun>2016-06-07 12:19:47 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Drumpf">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-06-07 12:27:54 -0600</FirstRun>
+  <LastRun>2016-06-07 12:30:58 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Contacts mobile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-06 16:27:29 -0600</FirstRun>
+  <LastRun>2016-06-07 09:28:07 -0600</LastRun>
+  <TotalTimeOnSuccess>9.095646</TotalTimeOnSuccess>
+ </script>
+</statistics>

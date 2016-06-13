@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[409, 6, 479, 36], command:@"Click", eventNum:2, hotSpot:[4.4494531200000000e+02, 6.1881250000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"microsoft_edge", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0002.png"}, {command:@"TypeText", eventNum:4, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0004.png", text:@"\"daily camera\""}, {captureRect:[253, 286, 421, 354], command:@"Click", eventNum:28, hotSpot:[3.9758984400000003e+02, 3.3451562500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dcinsearch", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0028.png"}, {captureRect:[128, 299, 415, 328], command:@"Click", eventNum:30, hotSpot:[3.5009765599999997e+02, 3.2896093800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"DailyCameraOfficialSite", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0030.png"}, {captureRect:[538, 263, 640, 278], command:@"MoveTo", eventNum:32, hotSpot:[580, 387], imageName:@"", infoDict:{folderPath:@"/", imageName:@"nRecreation", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0032.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:33, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0032.png", skipStep:@"YES", text:@"0.8"}, {captureRect:[545, 238, 615, 268], command:@"MoveTo", eventNum:34, hotSpot:[580, 387], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0034.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:35, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0034.png", skipStep:@"YES", text:@"1.6"}, {captureRect:[425, 252, 629, 278], command:@"MoveTo", eventNum:36, hotSpot:[580, 387], imageName:@"", infoDict:{folderPath:@"/", imageName:@"rdiutdruwcty", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0036.png", skipStep:@"YES"}, {command:@"ScrollWheelUp", eventNum:37, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0036.png", skipStep:@"YES", text:@"13.0"}, {captureRect:[794, 377, 880, 392], command:@"Click", eventNum:38, hotSpot:[8.2230859399999997e+02, 2.5255859400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"5DayForecast", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0038.png"}, {captureRect:[596, 172, 666, 202], command:@"MoveTo", eventNum:40, hotSpot:[631, 453], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0040.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:41, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_120309.408/Screen0040.png", skipStep:@"YES", text:@"5.8"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "microsoft_edge"</string>
+		<string>TypeText "daily camera"</string>
+		<string>Click "dcinsearch"</string>
+		<string>Click "DailyCameraOfficialSite"</string>
+		<string>-skipped- MoveTo "nRecreation"</string>
+		<string>-skipped- ScrollWheelDown 0.8</string>
+		<string>-skipped- MoveTo "image0001"</string>
+		<string>-skipped- ScrollWheelDown 1.6</string>
+		<string>-skipped- MoveTo "rdiutdruwcty"</string>
+		<string>-skipped- ScrollWheelUp 13.0</string>
+		<string>Click "5DayForecast.png"</string>
+		<string>-skipped- MoveTo "image0002"</string>
+		<string>-skipped- ScrollWheelDown 5.8</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>microsoft_edge.png</string>
+			<string>dcinsearch.png</string>
+			<string>DailyCameraOfficialSite.png</string>
+			<string>nRecreation.png</string>
+			<string>image0001.png</string>
+			<string>5DayForecast.png</string>
+			<string>rdiutdruwcty.png</string>
+			<string>image0002.png</string>
+			<string>microsoft_edge.png</string>
+			<string>dcinsearch.png</string>
+			<string>DailyCameraOfficialSite.png</string>
+			<string>5DayForecast.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

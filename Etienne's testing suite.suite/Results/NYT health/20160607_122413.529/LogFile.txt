@@ -1,0 +1,8 @@
+﻿2016-06-07 12:24:13.529 -0600	START		Running Untitled2.script
+2016-06-07 12:24:13.981 -0600	doubleclick	chrome	at (41, 137)	8	on_untitled2	Untitled2.script
+2016-06-07 12:24:15.313 -0600	click	nyttile	at (231, 557)	9	on_untitled2	Untitled2.script
+2016-06-07 12:24:17.214 -0600	click	health	at (491, 265)	10	on_untitled2	Untitled2.script
+2016-06-07 12:24:17.917 -0600	scrollwheeldown		moved 4	11	on_untitled2	Untitled2.script
+2016-06-07 12:24:18.618 -0600	scrollwheelup		moved 0	12	on_untitled2	Untitled2.script
+2016-06-07 12:24:26.584 -0600	EndTestCase		(Duration:"13.053664", Errors:"1", Exceptions:"0", StartTime:"2016-06-07 12:24:13 -0600", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2016-06-07 12:24:26.585 -0600	ABORTED		Execution Time 0:00:13 Untitled2.script

@@ -1,0 +1,5 @@
+﻿2016-06-06 16:27:29.675 -0600	START		Running New script.script
+2016-06-06 16:27:30.209 -0600	click	Contacts	at (53, 599)	1	on_new_script	New script.script
+2016-06-06 16:27:30.617 -0600	waitfor	favorites	found at (161, 601)	2	on_new_script	New script.script
+2016-06-06 16:27:30.901 -0600	EndTestCase		(Duration:"1.223418", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 16:27:29 -0600", Successes:"1", TestCase:"New script.script", Warnings:"0")
+2016-06-06 16:27:30.906 -0600	SUCCESS		Execution Time 0:00:01 New script.script

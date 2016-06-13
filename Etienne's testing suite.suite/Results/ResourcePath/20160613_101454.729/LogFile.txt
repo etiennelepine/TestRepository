@@ -1,0 +1,4 @@
+﻿2016-06-13 10:14:54.729 -0600	START		Running Untitled4.script
+2016-06-13 10:14:54.786 -0600	Log		/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Resources/chrome	1	on_untitled4	Untitled4.script
+2016-06-13 10:14:54.964 -0600	EndTestCase		(Duration:"0.232978", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 10:14:54 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-13 10:14:54.969 -0600	SUCCESS		Execution Time 0:00:00 Untitled4.script

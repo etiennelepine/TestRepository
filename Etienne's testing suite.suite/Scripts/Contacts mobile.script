@@ -1,0 +1,6 @@
+﻿Tap "Contacts"
+WaitFor 5, "favorites"
+Repeat 5 times
+	Tap "Contacts2"
+End repeat
+

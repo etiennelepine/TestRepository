@@ -1,0 +1,9 @@
+﻿2016-06-07 12:30:58.073 -0600	START		Running Untitled3.script
+2016-06-07 12:30:59.264 -0600	doubleclick	Chrome	at (41, 136)	8	on_untitled3	Untitled3.script
+2016-06-07 12:31:01.310 -0600	click	nyttile	at (231, 557)	9	on_untitled3	Untitled3.script
+2016-06-07 12:31:03.223 -0600	click	health	at (491, 265)	10	on_untitled3	Untitled3.script
+2016-06-07 12:31:03.924 -0600	scrollwheeldown		moved 4	11	on_untitled3	Untitled3.script
+2016-06-07 12:31:04.625 -0600	scrollwheelup		moved 0	12	on_untitled3	Untitled3.script
+2016-06-07 12:31:28.888 -0600	Exception	ForHisLatestTrickJohnOliver	No Image Found On Screen: "ForHisLatestTrickJohnOliver"	13	on_untitled3	Untitled3.script
+2016-06-07 12:31:29.270 -0600	EndTestCase		(Duration:"31.195606", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 12:30:58 -0600", Successes:"0", TestCase:"Untitled3.script", Warnings:"0")
+2016-06-07 12:31:29.328 -0600	FAILURE	Screen_Error.png	Image Not Found moveto Error - No Image Found On Screen: "ForHisLatestTrickJohnOliver" -- Execution Time 0:00:31 Untitled3.script

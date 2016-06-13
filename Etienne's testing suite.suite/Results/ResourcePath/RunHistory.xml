@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled4">
+ <run>
+  <RunDate>2016-06-07 16:04:03.849 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>20.642795</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_160403.849/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- moveto Error - No Image Found On Screen: &quot;timebeforetheDemocraticNationa&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 10:06:23.536 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.250731</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160613_100623.536/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: &#x27;resourcepath&#x27; was called as a Command, but is only available as a Function</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 10:09:28.786 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.229888</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160613_100928.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: &#x27;resourcepath&#x27; was called as a Command, but is only available as a Function</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 10:14:54.729 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.234353</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_101454.729/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 10:22:58.847 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.226231</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_102258.847/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

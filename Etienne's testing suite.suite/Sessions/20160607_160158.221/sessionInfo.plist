@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[457, 170, 820, 193], command:@"Click", eventNum:2, hotSpot:[5.4548730499999999e+02, 7.1992285200000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ThePrimaryIsCloseIn2008ItWasCl", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0002.png"}, {captureRect:[510, 166, 580, 196], command:@"MoveTo", eventNum:4, hotSpot:[5.4579016100000001e+02, 7.1862243699999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Graph", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0004.png"}, {command:@"ScrollWheelDown", eventNum:5, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0004.png", text:@"4.0"}, {captureRect:[524, 180, 963, 198], command:@"MoveTo", eventNum:6, hotSpot:[5.4579016100000001e+02, 7.1747448699999995e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AssociatedPressannouncedthatMr", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0006.png"}, {command:@"ScrollWheelDown", eventNum:7, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0006.png", text:@"2.5"}, {captureRect:[524, 167, 882, 187], command:@"MoveTo", eventNum:8, hotSpot:[5.4579016100000001e+02, 7.1747448699999995e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"timebeforetheDemocraticNationa", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0008.png"}, {command:@"ScrollWheelDown", eventNum:9, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0008.png", text:@"6.0"}, {captureRect:[507, 167, 577, 197], command:@"MoveTo", eventNum:10, hotSpot:[5.4276916500000004e+02, 7.1747448699999995e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0010.png"}, {command:@"ScrollWheelDown", eventNum:11, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0010.png", text:@"2.6"}, {captureRect:[524, 189, 751, 208], command:@"MoveTo", eventNum:12, hotSpot:[5.3974823000000004e+02, 7.1632653800000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Clintontoshirttheirsupporttohi", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0012.png"}, {command:@"ScrollWheelDown", eventNum:13, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0012.png", text:@"7.6"}, {captureRect:[504, 168, 574, 198], command:@"MoveTo", eventNum:14, hotSpot:[5.3974823000000004e+02, 7.1632653800000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0014.png"}, {command:@"ScrollWheelDown", eventNum:15, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0014.png", text:@"2.4"}, {captureRect:[645, 140, 810, 156], command:@"Click", eventNum:16, hotSpot:[7.0586273200000005e+02, 7.5967541500000004e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NominationWillBernie", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/eggPlant work/Etienne's testing suite.suite/Sessions/20160607_160158.221/Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "ThePrimaryIsCloseIn2008ItWasCl"</string>
+		<string>MoveTo "Graph"</string>
+		<string>ScrollWheelDown 4.0</string>
+		<string>MoveTo "AssociatedPressannouncedthatMr"</string>
+		<string>ScrollWheelDown 2.5</string>
+		<string>MoveTo "timebeforetheDemocraticNationa"</string>
+		<string>ScrollWheelDown 6.0</string>
+		<string>MoveTo "image0001"</string>
+		<string>ScrollWheelDown 2.6</string>
+		<string>MoveTo "Clintontoshirttheirsupporttohi"</string>
+		<string>ScrollWheelDown 7.6</string>
+		<string>MoveTo "image0002"</string>
+		<string>ScrollWheelDown 2.4</string>
+		<string>Click "NominationWillBernie"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>ThePrimaryIsCloseIn2008ItWasCl.png</string>
+			<string>Graph.png</string>
+			<string>AssociatedPressannouncedthatMr.png</string>
+			<string>timebeforetheDemocraticNationa.png</string>
+			<string>image0001.png</string>
+			<string>Clintontoshirttheirsupporttohi.png</string>
+			<string>image0002.png</string>
+			<string>ThePrimaryIsCloseIn2008ItWasCl.png</string>
+			<string>Graph.png</string>
+			<string>AssociatedPressannouncedthatMr.png</string>
+			<string>timebeforetheDemocraticNationa.png</string>
+			<string>image0001.png</string>
+			<string>Clintontoshirttheirsupporttohi.png</string>
+			<string>image0002.png</string>
+			<string>NominationWillBernie.png</string>
+			<string>NominationWillBernie.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

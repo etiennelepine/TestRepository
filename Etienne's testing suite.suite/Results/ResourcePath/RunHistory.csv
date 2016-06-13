@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-07 16:04:03.849 -0600,"Failure",0:00:20,1,0,1,"20160607_160403.849/LogFile.txt","","Image Not Found -- moveto Error - No Image Found On Screen: ""timebeforetheDemocraticNationa""",0
+2016-06-13 10:06:23.536 -0600,"Failure",0:00:00,1,0,0,"20160613_100623.536/LogFile.txt","","STUnknownMessage -- ERROR: 'resourcepath' was called as a Command, but is only available as a Function",0
+2016-06-13 10:09:28.786 -0600,"Failure",0:00:00,1,0,0,"20160613_100928.786/LogFile.txt","","STUnknownMessage -- ERROR: 'resourcepath' was called as a Command, but is only available as a Function",0
+2016-06-13 10:14:54.729 -0600,"Success",0:00:00,0,0,0,"20160613_101454.729/LogFile.txt","","",1
+2016-06-13 10:22:58.847 -0600,"Success",0:00:00,0,0,0,"20160613_102258.847/LogFile.txt","","",1

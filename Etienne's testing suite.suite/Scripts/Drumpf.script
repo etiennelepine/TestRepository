@@ -1,0 +1,24 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2016-06-07 12:25:08
+  From session:  nyt test
+  Captured on:  2016-06-07 12:13:40
+  From server:  Etienne for testing
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick ((enter snippet template here)image: "Chrome", scale: ("Proportional", 1.0, 1.5))
+Click "nyttile"
+Click "health"
+ScrollWheelDown 4.3
+ScrollWheelUp 0.4
+MoveTo "ForHisLatestTrickJohnOliver"
+ScrollWheelDown 0.6
+Click "ForHisLatestTrickJohnOliver_0001"
+ScrollWheelDown 1.2
+ScrollWheelDown 3.2
+ScrollWheelDown 0.7
+ScrollWheelDown 1.9
+ScrollWheelDown 0.4
+ScrollWheelDown 0.5
+ScrollWheelDown 0.4
+ScrollWheelDown 6.3
+Click "DonaldDrumpfAFunnyLabelbutIsIt"

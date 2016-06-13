@@ -1,0 +1,4 @@
+﻿2016-06-07 12:18:47.302 -0600	START		Running nyt test.script
+2016-06-07 12:19:00.382 -0600	Exception	chrome	No Image Found On Screen: "chrome"	8	on_nyt_test	nyt test.script
+2016-06-07 12:19:00.709 -0600	EndTestCase		(Duration:"13.404171", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 12:18:47 -0600", Successes:"0", TestCase:"nyt test.script", Warnings:"0")
+2016-06-07 12:19:00.710 -0600	ABORTED		Execution Time 0:00:13 nyt test.script

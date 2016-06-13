@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[6, 488, 76, 518], command:@"DoubleClick", eventNum:2, hotSpot:[4.1562500000000000e+01, 1.3644921900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chrome", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0002.png"}, {captureRect:[175, 74, 320, 122], command:@"Click", eventNum:6, hotSpot:[2.3177343800000000e+02, 5.5751562500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"nyttile", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0006.png"}, {captureRect:[103, 368, 950, 382], command:@"Click", eventNum:8, hotSpot:[4.9288671900000003e+02, 2.6534765599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"health", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0008.png"}, {captureRect:[554, 333, 624, 363], command:@"MoveTo", eventNum:10, hotSpot:[589, 292], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0010.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:11, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0010.png", text:@"4.3"}, {captureRect:[523, 339, 613, 351], command:@"MoveTo", eventNum:12, hotSpot:[485, 309], imageName:@"", infoDict:{folderPath:@"/", imageName:@"meuauv", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0012.png", skipStep:@"YES"}, {command:@"ScrollWheelUp", eventNum:13, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0012.png", text:@"0.4"}, {captureRect:[150, 282, 500, 309], command:@"MoveTo", eventNum:14, hotSpot:[443, 356], imageName:@"", infoDict:{folderPath:@"/", imageName:@"DirecttoConsumerLabTestsNo", searchType:@"Text", skipStep:False, waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0014.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:15, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0014.png", skipStep:@"YES", text:@"4.6"}, {captureRect:[254, 276, 588, 294], command:@"MoveTo", eventNum:16, hotSpot:[444, 365], imageName:@"", infoDict:{folderPath:@"/", imageName:@"childrenwithphysicalandintelle", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0016.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:17, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0016.png", skipStep:@"YES", text:@"0.5"}, {captureRect:[254, 258, 559, 282], command:@"MoveTo", eventNum:18, hotSpot:[444, 363], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ForHisLatestTrickJohnOliver", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0018.png"}, {command:@"ScrollWheelDown", eventNum:19, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0018.png", text:@"0.6"}, {captureRect:[254, 456, 559, 481], command:@"Click", eventNum:20, hotSpot:[4.1704296900000003e+02, 1.7123437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ForHisLatestTrickJohnOliver_0001", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0020.png"}, {captureRect:[374, 357, 444, 387], command:@"MoveTo", eventNum:22, hotSpot:[409, 268], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0022.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:23, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0022.png", text:@"1.2"}, {captureRect:[369, 308, 439, 338], command:@"MoveTo", eventNum:24, hotSpot:[404, 317], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0024.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:25, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0024.png", text:@"3.2"}, {captureRect:[208, 316, 779, 337], command:@"MoveTo", eventNum:26, hotSpot:[404, 316], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Wouldyouratherspend20minutesre", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0026.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:27, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0026.png", text:@"0.7"}, {captureRect:[721, 227, 791, 257], command:@"MoveTo", eventNum:28, hotSpot:[756, 398], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0028.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:29, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0028.png", text:@"1.9"}, {captureRect:[209, 238, 740, 255], command:@"MoveTo", eventNum:30, hotSpot:[757, 410], imageName:@"", infoDict:{folderPath:@"/", imageName:@"receivedtheporttohooneonethena", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0030.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:31, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0030.png", text:@"0.4"}, {captureRect:[719, 216, 789, 246], command:@"MoveTo", eventNum:32, hotSpot:[754, 409], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0032.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:33, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0032.png", text:@"0.5"}, {captureRect:[709, 245, 779, 256], command:@"MoveTo", eventNum:34, hotSpot:[754, 409], imageName:@"", infoDict:{folderPath:@"/", imageName:@"LlllOCLO", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0034.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:35, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0034.png", text:@"0.4"}, {captureRect:[616, 337, 686, 367], command:@"MoveTo", eventNum:36, hotSpot:[651, 288], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0036.png", skipStep:@"YES"}, {command:@"ScrollWheelDown", eventNum:37, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0036.png", text:@"6.3"}, {captureRect:[314, 281, 653, 301], command:@"Click", eventNum:38, hotSpot:[5.5759375000000000e+02, 3.5216796900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"DonaldDrumpfAFunnyLabelbutIsIt", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/etienne/Documents/untitled folder/Etienne's testing suite.suite/Sessions/20160607_121340.225/Screen0038.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "chrome"</string>
+		<string>Click "nyttile"</string>
+		<string>Click "health"</string>
+		<string>-skipped- MoveTo "image0001"</string>
+		<string>ScrollWheelDown 4.3</string>
+		<string>-skipped- MoveTo "meuauv"</string>
+		<string>ScrollWheelUp 0.4</string>
+		<string>-skipped- MoveTo "DirecttoConsumerLabTestsNo"</string>
+		<string>-skipped- ScrollWheelDown 4.6</string>
+		<string>-skipped- MoveTo "childrenwithphysicalandintelle"</string>
+		<string>-skipped- ScrollWheelDown 0.5</string>
+		<string>MoveTo "ForHisLatestTrickJohnOliver"</string>
+		<string>ScrollWheelDown 0.6</string>
+		<string>Click "ForHisLatestTrickJohnOliver_0001"</string>
+		<string>-skipped- MoveTo "image0002"</string>
+		<string>ScrollWheelDown 1.2</string>
+		<string>-skipped- MoveTo "image0003"</string>
+		<string>ScrollWheelDown 3.2</string>
+		<string>-skipped- MoveTo "Wouldyouratherspend20minutesre"</string>
+		<string>ScrollWheelDown 0.7</string>
+		<string>-skipped- MoveTo "image0004"</string>
+		<string>ScrollWheelDown 1.9</string>
+		<string>-skipped- MoveTo "receivedtheporttohooneonethena"</string>
+		<string>ScrollWheelDown 0.4</string>
+		<string>-skipped- MoveTo "image0005"</string>
+		<string>ScrollWheelDown 0.5</string>
+		<string>-skipped- MoveTo "LlllOCLO"</string>
+		<string>ScrollWheelDown 0.4</string>
+		<string>-skipped- MoveTo "image0006"</string>
+		<string>ScrollWheelDown 6.3</string>
+		<string>Click "DonaldDrumpfAFunnyLabelbutIsIt"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>chrome.png</string>
+			<string>nyttile.png</string>
+			<string>health.png</string>
+			<string>image0001.png</string>
+			<string>meuauv.png</string>
+			<string>DirecttoConsumerLabTestsNo.png</string>
+			<string>childrenwithphysicalandintelle.png</string>
+			<string>ForHisLatestTrickJohnOliver.png</string>
+			<string>ForHisLatestTrickJohnOliver_0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>Wouldyouratherspend20minutesre.png</string>
+			<string>image0004.png</string>
+			<string>receivedtheporttohooneonethena.png</string>
+			<string>image0005.png</string>
+			<string>LlllOCLO.png</string>
+			<string>image0006.png</string>
+			<string>DonaldDrumpfAFunnyLabelbutIsIt.png</string>
+			<string>chrome.png</string>
+			<string>nyttile.png</string>
+			<string>health.png</string>
+			<string>DirecttoConsumerLabTestsNo.png</string>
+			<string>ForHisLatestTrickJohnOliver.png</string>
+			<string>ForHisLatestTrickJohnOliver_0001.png</string>
+			<string>DonaldDrumpfAFunnyLabelbutIsIt.png</string>
+			<string>chrome.png</string>
+			<string>nyttile.png</string>
+			<string>health.png</string>
+			<string>DirecttoConsumerLabTestsNo.png</string>
+			<string>ForHisLatestTrickJohnOliver.png</string>
+			<string>ForHisLatestTrickJohnOliver_0001.png</string>
+			<string>DonaldDrumpfAFunnyLabelbutIsIt.png</string>
+			<string>chrome.png</string>
+			<string>nyttile.png</string>
+			<string>health.png</string>
+			<string>ForHisLatestTrickJohnOliver.png</string>
+			<string>ForHisLatestTrickJohnOliver_0001.png</string>
+			<string>DonaldDrumpfAFunnyLabelbutIsIt.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

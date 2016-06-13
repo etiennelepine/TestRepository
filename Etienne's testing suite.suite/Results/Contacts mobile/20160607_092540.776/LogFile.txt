@@ -1,0 +1,4 @@
+﻿2016-06-07 09:25:40.777 -0600	START		Running New_script.script
+2016-06-07 09:25:56.490 -0600	Exception	Contacts	No Image Found On Screen: "Contacts"	1	on_new_script	New_script.script
+2016-06-07 09:25:56.720 -0600	EndTestCase		(Duration:"15.940603", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 09:25:40 -0600", Successes:"0", TestCase:"New_script.script", Warnings:"0")
+2016-06-07 09:25:56.720 -0600	ABORTED		Execution Time 0:00:15 New_script.script

@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-07 12:25:39.388 -0600,"Running",0:00:00,0,0,0,"20160607_122539.388/LogFile.txt","","",0
+2016-06-07 12:27:54.501 -0600,"Failure",0:00:24,1,0,1,"20160607_122754.501/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome""",0
+2016-06-07 12:30:58.072 -0600,"Failure",0:00:31,1,0,1,"20160607_123058.072/LogFile.txt","","Image Not Found -- moveto Error - No Image Found On Screen: ""ForHisLatestTrickJohnOliver""",0

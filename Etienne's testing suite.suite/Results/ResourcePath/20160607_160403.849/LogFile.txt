@@ -1,0 +1,9 @@
+﻿2016-06-07 16:04:03.851 -0600	START		Running Untitled4.script
+2016-06-07 16:04:04.475 -0600	click	ThePrimaryIsCloseIn2008ItWasCl	at (545, 719)	8	on_untitled4	Untitled4.script
+2016-06-07 16:04:06.836 -0600	moveto	Graph	at (545, 718)	9	on_untitled4	Untitled4.script
+2016-06-07 16:04:07.541 -0600	scrollwheeldown		moved 4	10	on_untitled4	Untitled4.script
+2016-06-07 16:04:09.877 -0600	moveto	AssociatedPressannouncedthatMr	at (545, 831)	11	on_untitled4	Untitled4.script
+2016-06-07 16:04:10.580 -0600	scrollwheeldown		moved 3	12	on_untitled4	Untitled4.script
+2016-06-07 16:04:23.996 -0600	Exception	timebeforetheDemocraticNationa	No Image Found On Screen: "timebeforetheDemocraticNationa"	13	on_untitled4	Untitled4.script
+2016-06-07 16:04:24.492 -0600	EndTestCase		(Duration:"20.640438", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 16:04:03 -0600", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-07 16:04:24.571 -0600	FAILURE	Screen_Error.png	Image Not Found moveto Error - No Image Found On Screen: "timebeforetheDemocraticNationa" -- Execution Time 0:00:20 Untitled4.script

@@ -1,0 +1,4 @@
+﻿2016-06-06 16:35:48.912 -0600	START		Running New_script3.script
+2016-06-06 16:36:39.514 -0600	Exception	Windows10	No Image Found On Screen: "Windows10"	1	on_new_script3	New_script3.script
+2016-06-06 16:36:39.845 -0600	EndTestCase		(Duration:"50.931266", Errors:"1", Exceptions:"1", StartTime:"2016-06-06 16:35:48 -0600", Successes:"0", TestCase:"New_script3.script", Warnings:"0")
+2016-06-06 16:36:39.845 -0600	ABORTED		Execution Time 0:00:50 New_script3.script

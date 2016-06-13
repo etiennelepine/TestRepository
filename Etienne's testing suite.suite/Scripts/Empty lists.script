@@ -1,0 +1,16 @@
+﻿// Create empty lists to store results
+set successes to ()
+set failures to ()
+
+// Run each script in the list, recording results
+Repeat with each item currentScript of myScripts
+	RunWithNewResults currentScript
+	Set currentResult to the result
+	
+	If currentResult's status is "success"
+		Insert currentScript after successes
+	else if currentResult's status is "Failure"
+		Insert currentScript after failures
+	End If
+End Repeat
+

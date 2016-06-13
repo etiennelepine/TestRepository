@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-06-07 22:03:29 +0000";
+    CaptureHost = "Etienne Ubuntu";
+    CaptureScreenSize =     (
+        1440,
+        900
+    );
+    HasAlpha = 1;
+    HotSpotX = 88;
+    HotSpotY = 12;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 457;
+    OriginalLocationY = 707;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

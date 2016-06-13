@@ -1,0 +1,10 @@
+﻿2016-06-07 09:28:07.755 -0600	START		Running New_script.script
+2016-06-07 09:28:08.311 -0600	tap	Contacts	at (52, 601)	1	on_new_script	New_script.script
+2016-06-07 09:28:08.734 -0600	waitfor	favorites	found at (161, 601)	2	on_new_script	New_script.script
+2016-06-07 09:28:09.329 -0600	tap	Contacts2	at (52, 599)	4	on_new_script	New_script.script
+2016-06-07 09:28:10.331 -0600	tap	Contacts2	at (52, 599)	4	on_new_script	New_script.script
+2016-06-07 09:28:11.341 -0600	tap	Contacts2	at (52, 599)	4	on_new_script	New_script.script
+2016-06-07 09:28:12.354 -0600	tap	Contacts2	at (52, 599)	4	on_new_script	New_script.script
+2016-06-07 09:28:13.362 -0600	tap	Contacts2	at (52, 599)	4	on_new_script	New_script.script
+2016-06-07 09:28:13.588 -0600	EndTestCase		(Duration:"5.831406", Errors:"0", Exceptions:"0", StartTime:"2016-06-07 09:28:07 -0600", Successes:"1", TestCase:"New_script.script", Warnings:"0")
+2016-06-07 09:28:13.594 -0600	SUCCESS		Execution Time 0:00:05 New_script.script

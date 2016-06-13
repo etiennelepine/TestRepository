@@ -1,0 +1,40 @@
+1	0.00102401	start	
+2	1.41446	mouseDown	{button:1, clickCount:1, hotSpot:[41.5625, 136.449219]}
+3	1.54658	mouseUp	{button:1, clickCount:1, hotSpot:[41.5625, 136.449219]}
+4	1.6207	mouseDown	{button:1, clickCount:2, hotSpot:[41.5625, 136.449219]}
+5	1.73076	mouseUp	{button:1, clickCount:2, hotSpot:[41.5625, 136.449219]}
+6	11.6192	mouseDown	{button:1, clickCount:1, hotSpot:[231.773438, 557.515625]}
+7	11.7488	mouseUp	{button:1, clickCount:1, hotSpot:[231.773438, 557.515625]}
+8	16.5626	mouseDown	{button:1, clickCount:1, hotSpot:[492.886719, 265.347656]}
+9	16.7349	mouseUp	{button:1, clickCount:1, hotSpot:[492.886719, 265.347656]}
+10	20.6125	mouseMoved	{hotSpot:[589, 292]}
+11	20.6593	scrollDown	{amount:-4.3002624511718750e+00}
+12	24.4175	mouseMoved	{hotSpot:[485, 309]}
+13	24.4633	scrollUp	{amount:4.0002441406250000e-01}
+14	29.2309	mouseMoved	{hotSpot:[443, 356]}
+15	29.2786	scrollDown	{amount:-4.6002807617187500e+00}
+16	32.3176	mouseMoved	{hotSpot:[444, 365]}
+17	32.3613	scrollDown	{amount:-5.0003051757812500e-01}
+18	34.055	mouseMoved	{hotSpot:[444, 363]}
+19	34.0984	scrollDown	{amount:-6.0003662109375000e-01}
+20	39.3041	mouseDown	{button:1, clickCount:1, hotSpot:[417.042969, 171.234375]}
+21	39.4343	mouseUp	{button:1, clickCount:1, hotSpot:[417.042969, 171.234375]}
+22	45.6145	mouseMoved	{hotSpot:[409, 268]}
+23	45.6499	scrollDown	{amount:-1.2000732421875000e+00}
+24	47.3164	mouseMoved	{hotSpot:[404, 317]}
+25	47.3583	scrollDown	{amount:-3.2001953125000000e+00}
+26	49.5169	mouseMoved	{hotSpot:[404, 316]}
+27	49.5616	scrollDown	{amount:-7.0004272460937500e-01}
+28	51.8358	mouseMoved	{hotSpot:[756, 398]}
+29	51.8852	scrollDown	{amount:-1.9001159667968750e+00}
+30	62.5353	mouseMoved	{hotSpot:[757, 410]}
+31	62.5737	scrollDown	{amount:-4.0002441406250000e-01}
+32	66.9031	mouseMoved	{hotSpot:[754, 409]}
+33	66.9437	scrollDown	{amount:-5.0003051757812500e-01}
+34	68.5037	mouseMoved	{hotSpot:[754, 409]}
+35	68.5468	scrollDown	{amount:-4.0002441406250000e-01}
+36	77.8409	mouseMoved	{hotSpot:[651, 288]}
+37	77.8821	scrollDown	{amount:-6.3003845214843750e+00}
+38	81.0393	mouseDown	{button:1, clickCount:1, hotSpot:[557.59375, 352.167969]}
+39	81.1561	mouseUp	{button:1, clickCount:1, hotSpot:[557.59375, 352.167969]}
+40	84.7274	end	
